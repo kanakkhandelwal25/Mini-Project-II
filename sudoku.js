@@ -1,4 +1,3 @@
-// "use strict";
 
 //Function for taking input
 document.getElementById("sudoku-board").addEventListener("keyup", function(event) {
